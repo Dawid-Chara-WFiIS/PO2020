@@ -1,0 +1,1 @@
+/usr/bin/c++  -lm -Wall  -rdynamic CMakeFiles/book.dir/Main.cpp.o CMakeFiles/book.dir/src/A4Page.cpp.o CMakeFiles/book.dir/src/B5Page.cpp.o CMakeFiles/book.dir/src/Book.cpp.o CMakeFiles/book.dir/src/Page.cpp.o CMakeFiles/book.dir/src/TitlePage.cpp.o  -o book 

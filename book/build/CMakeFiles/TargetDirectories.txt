@@ -1,0 +1,3 @@
+/home/dawid/PO2020/book/build/CMakeFiles/rebuild_cache.dir
+/home/dawid/PO2020/book/build/CMakeFiles/book.dir
+/home/dawid/PO2020/book/build/CMakeFiles/edit_cache.dir
