@@ -1,0 +1,1 @@
+/usr/bin/c++  -lm -Wall  -rdynamic CMakeFiles/lab07.dir/lab07.cpp.o CMakeFiles/lab07.dir/src/ArithmeticMean.cpp.o CMakeFiles/lab07.dir/src/HarmonicMean.cpp.o  -o lab07 

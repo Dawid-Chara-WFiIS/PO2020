@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ArithmeticMean.h
+iostream
+-
+string
+-
+
+../include/HarmonicMean.h
+ArithmeticMean.h
+../include/ArithmeticMean.h
+iostream
+-
+string
+-
+
+/home/dawid/PO2020/lab07/lab07.cpp
+HarmonicMean.h
+/home/dawid/PO2020/lab07/HarmonicMean.h
+ArithmeticMean.h
+/home/dawid/PO2020/lab07/ArithmeticMean.h
+iostream
+-
+cmath
+-
+
+/home/dawid/PO2020/lab07/src/ArithmeticMean.cpp
+ArithmeticMean.h
+/home/dawid/PO2020/lab07/src/ArithmeticMean.h
+
+/home/dawid/PO2020/lab07/src/HarmonicMean.cpp
+HarmonicMean.h
+/home/dawid/PO2020/lab07/src/HarmonicMean.h
+
